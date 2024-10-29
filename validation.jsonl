@@ -1,0 +1,2928 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Helsinki, Finland"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Helsinki"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Barcelona"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Paris"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Madrid"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Romania"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Gibraltar, Gibraltar"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Stockholm Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Budapest Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Amsterdam Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "France"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Netherlands"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Zurich, Switzerland"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Germany"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Toulouse, Occitanie, France"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Spain"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Dublin, County Dublin, Ireland"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Brno, South Moravia, Czechia"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Barcelona, Catalonia"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Berlin, Germany"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Cologne, North Rhine-Westphalia, Germany"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Brussels, Brussels Region, Belgium"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Măciuca, Vâlcea, Romania"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Utrecht, Utrecht, Netherlands"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Finland"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Hamburg Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Basel Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Luxembourg"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Brussels Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Berlin, Berlin, Germany"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Norway"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Wurzburg Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Munich, Bavaria, Germany"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Lisbon Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Ternopil, Ternopil, Ukraine"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Heidenheim an der Brenz, Baden-Württemberg, Germany"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Prague, Czechia"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Naples, Campania, Italy"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Ukraine"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Bordeaux Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Diest, Flemish Region, Belgium"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Milan, Lombardy, Italy"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Cork Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Rorschacherberg, St Gallen, Switzerland"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Málaga Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Keenagh Beg, County Mayo, Ireland"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Hengelo, Overijssel, Netherlands"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Rotterdam, South Holland, Netherlands"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Vienna, Vienna, Austria"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Aalter, Flemish Region, Belgium"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Valkenswaard, North Brabant, Netherlands"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Adliswil, Zurich, Switzerland"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Sofia, Sofia City, Bulgaria"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Zug, Zug, Switzerland"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Porto, Portugal"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Dublin, Ireland"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Portugal"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Valencia, Valencian Community, Spain"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "EMEA"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Warsaw"
+    },
+    {
+      "role": "model",
+      "content": "Europe"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Calgary, Alberta, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Halifax Metropolitan Area, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Toronto Area, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Vancouver Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Halifax, Nova Scotia, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Kelowna, British Columbia, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "London, Ontario, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Toronto, Ontario, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Vancouver, British Columbia, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Victoria, British Columbia, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Burlington, Ontario, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Ottawa, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Montreal, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Montreal Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Ottawa, Ontario, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Calgary Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Montreal, Quebec, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Winnipeg, Manitoba, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Québec, Quebec, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "North York, Ontario, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Ottawa Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Dartmouth, Nova Scotia, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Saint-Pie, Quebec, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Alberta, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Waterloo, Ontario, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Delta, British Columbia, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Hamilton, Ontario, Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Montreal | Canada"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Ottawa, ON"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Toronto"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Vancouver,BC"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Vancouver"
+    },
+    {
+      "role": "model",
+      "content": "Canada"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Australia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Dunsborough, Western Australia, Australia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Sydney Area, Austrralia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Lavender Bay, New South Wales, Australia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Melbourne, Victoria, Australia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "New Zealand"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Sydney, New South Wales, Australia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Brisbane, Australia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Adelaide, South Australia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Sydney, Australia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Sydney Area"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Wellington, New Zealand"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Marleston, South Australia, Australia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Brisbane, Queensland, Australia"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Brisbane Area"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Melbourne Area"
+    },
+    {
+      "role": "model",
+      "content": "Australia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Ahmedabad, Gujarat, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Bangkok Metropolitan Area"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Bangkok Metropolitan Area, Thailand"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Bengaluru, Karnataka, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Chennai, Tamil Nadu, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Delhi, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Doha, Qatar"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Dubai, United Arab Emirates"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Gurugram, Haryana, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Hyderabad, Telangana, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Indore, Madhya Pradesh, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Islāmābād, Pakistan"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Israel"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Jaipur, Rajasthan, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Jeddah, Makkah, Saudi Arabia"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Karachi Division, Sindh, Pakistan"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Karāchi, Sindh, Pakistan"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Kerala, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Kishangarh, Rajasthan, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Kochi, Kerala, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Limassol, Cyprus"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Mumbai, Maharashtra, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "New Delhi, Delhi, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Okinawa, Japan"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Pakistan"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Patna, Bihar, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Phagwara, Punjab, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Phuket, Phuket, Thailand"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Pune, Maharashtra, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Punjab, Pakistan"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Raurkela, Odisha, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Singapore"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Surat, Gujarat, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Tel Aviv District, Israel"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Tel Aviv-Yafo, Tel Aviv District, Israel"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Singapore, Singapore"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Tamil Nadu, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Mumbai"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Bengaluru, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Istanbul"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Bangalore, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "New Delhi, Delhi, IND"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Satna, Madhya Pradesh, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Tokyo, Tokyo, Japan"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "South Delhi, Delhi, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "United Arab Emirates"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Riyadh, Saudi Arabia"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Ko Samui, Surat Thani, Thailand"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Nakhon Pathom, Nakhon Pathom, Thailand"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Lucknow, Uttar Pradesh, India"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Mumbai Metropolitan Region"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Shanghai, China"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Center District, Israel"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Kuwait"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Türkiye"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Tel Aviv"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Nepal"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Philippines"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Cebu City Philippines"
+    },
+    {
+      "role": "model",
+      "content": "Asia"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Benin City, Edo State, Nigeria"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Cape Town, Western Cape, South Africa"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Greater Accra Region, Ghana"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Lagos State, Nigeria"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Lagos, Lagos State, Nigeria"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Lekki, Lagos State, Nigeria"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Mauritius"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Nairobi County, Kenya"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Nigeria"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Rivers State, Nigeria"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Zaria, Kaduna State, Nigeria"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Cape Town"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Cape Town - South Africa"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You should classify the text into one of the following regions:[US,UK,Mexico,LatAm,Europe,Canada,Australia,Asia,Africa]"
+    },
+    {
+      "role": "user",
+      "content": "Lagos, Nigeria"
+    },
+    {
+      "role": "model",
+      "content": "Africa"
+    }
+  ]
+}
